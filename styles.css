@@ -8,13 +8,13 @@ html {
     background-color: black;
     height: 200px;
     width: 100%;
-    background-image: url("Images/Hacker.jpg");
+    background-image: url(Images/Hacker.jpg);
   }
   
   #aboutMeBox {
     margin-top: 10px;
     background-color: black;
-    background-image: url("Images/Hacker.jpg");
+    background-image: url(Images/Hacker.jpg);
   }
   
   h1 {
@@ -198,38 +198,22 @@ html {
     color: black;
   }
 
-  .imageflex1 {
-    margin: 10px;
-    padding: 20px; 
-    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(1\).jpg);
-    background-size: 500px;
-  }
-
-  /* .imageflex2 {
-    margin: 10px;
-    padding: 20px; 
-    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(2\).jpg);
-    background-size: 1000px, 1333px;
-    height: 1000;
-  }
-
-  .imageflex3 {
-    margin: 10px;
-    padding: 20px; 
-    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(3\).jpg);
-    background-size: 400px;
-  }
-
-  .imageflex4 {
-    margin: 10px;
-    padding: 20px; 
-    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(4\).jpg);
-    background-size: 400px;
-  } */
-
   .containerimage {
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
     flex-basis: 100px;
+  }
+
+  .imageflex1 {
+    background-color: blueviolet;
+  }
+
+  .simpleSlides {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/simple-machine-1024x1024.jpg);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
   }
