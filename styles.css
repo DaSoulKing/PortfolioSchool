@@ -1,0 +1,235 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: Black;
+  }
+  
+  .titlebox {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    background-image: url("Images/Hacker.jpg");
+  }
+  
+  #aboutMeBox {
+    margin-top: 10px;
+    background-color: black;
+    background-image: url("Images/Hacker.jpg");
+  }
+  
+  h1 {
+    text-align: center;
+    color: beige;
+    padding-top: 75px;
+  }
+  
+  h2 {
+    color: beige;
+    text-align: center;
+  }
+
+  p {
+    color: beige;
+    text-align: center;
+  }
+
+  .DrawandDesign {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/drawinganddesign.jpg);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .CAD {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/CAD.jpg);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  .POE {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/POE.jpg);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .GameDev {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/gamdev.jpg);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .WebDev {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/webdev.png);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .drawingtext {
+    padding-top: 150px;
+    padding-left: 20px;
+  }
+  
+  .CADtext {
+    padding-top: 150px;
+    padding-left: 75px;
+  }
+
+  .POEtext {
+    padding-top: 150px;
+    padding-left: 50px;
+  }
+
+  .GameDevtext {
+    padding-top: 150px;
+    padding-left: 50px;
+  }
+
+  .WebDevtext {
+    padding-top: 150px;
+    padding-left: 20px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-basis: 200px;
+  }
+
+  .Quarter1 {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/White_background.png);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  .Quarter2 {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/White_background.png);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .Quarter3 {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/White_background.png);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .Quarter4 {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/White_background.png);
+    background-size: 200px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .Quarter1Text {
+    padding-top: 75px;
+    padding-left: 50px;
+  }
+
+  .Quarter2Text {
+    padding-top: 75px;
+    padding-left: 50px;
+  }
+
+  .Quarter3Text {
+    padding-top: 75px;
+    padding-left: 50px;
+  }
+
+  .Quarter4Text {
+    padding-top: 75px;
+    padding-left: 50px;
+  }
+
+  .Drawing1 {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/drawings.jpg);
+    background-size: 220px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .Design1 {
+    height: 200px;
+    width: 200px;
+    background-image: url(Images/BLueprint.jpg);
+    background-size: 400px;
+    margin: 10px;
+    padding: 20px;
+  }
+
+  .Drawing1Text {
+    padding-top: 75px;
+    padding-left: 65px;
+  }
+
+  .Design1Text {
+    padding-top: 75px;
+    padding-left: 75px;
+  }
+
+  a {
+    color: black;
+  }
+
+  .imageflex1 {
+    margin: 10px;
+    padding: 20px; 
+    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(1\).jpg);
+    background-size: 500px;
+  }
+
+  /* .imageflex2 {
+    margin: 10px;
+    padding: 20px; 
+    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(2\).jpg);
+    background-size: 1000px, 1333px;
+    height: 1000;
+  }
+
+  .imageflex3 {
+    margin: 10px;
+    padding: 20px; 
+    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(3\).jpg);
+    background-size: 400px;
+  }
+
+  .imageflex4 {
+    margin: 10px;
+    padding: 20px; 
+    background-image: url(/PortfolioCode10th/Images/linepacket1\ \(4\).jpg);
+    background-size: 400px;
+  } */
+
+  .containerimage {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    flex-basis: 100px;
+  }
